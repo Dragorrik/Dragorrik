@@ -16,7 +16,7 @@ I'm a passionate **Flutter Developer** who loves building mobile applications wi
 - **Tools & Platforms**: Git, GitHub, REST APIs, Google Maps API
 
 ### 📌 Projects
-- 💬 **Chat-App** - A chatting platform with **the system of editing profile image,updating name and password**
+- 💬 **Chat-App** - A chatting platform with **the system of editing profile image,updating name,occupation and password**
 - 📊 **Savvy-Track** - A personal finance app to track **daily & monthly expenses**
 - 🏋️ **Goal-Ventures** - Set tasks and track your activities
 - 📷 **Visiting-Card-Scanner-App** - Scan images, extract text and edit
