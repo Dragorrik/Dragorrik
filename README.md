@@ -23,6 +23,6 @@ I'm a passionate **Flutter Developer** who loves building mobile applications wi
 
 ### 📫 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Dragorrik)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/md-aarik-enam-anan/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-aarik-enam-anan/)
 
 ⚡ **Let's build something awesome together!** 🚀
